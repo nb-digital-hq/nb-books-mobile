@@ -1,0 +1,711 @@
+{
+  "citas": [
+    {
+      "cita": "Nadie recordaba quién plantó",
+      "locator": {
+        "href": "OEBPS/c1.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=73"
+          ],
+          "progression": 0.36318407960199006,
+          "totalProgression": 0.15531914893617021
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": " el primer almendro & nadie preg",
+          "before": "l monte como un animal cansado. ",
+          "highlight": "Nadie recordaba quién plantó"
+        },
+        "version": 1
+      }
+    },
+    {
+      "cita": "Dos: ñandú, pingüino.",
+      "locator": {
+        "href": "OEBPS/c2.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=55"
+          ],
+          "progression": 0.34591194968553457,
+          "totalProgression": 0.5446808510638298
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": " Una cita dentro de una cita. Es",
+          "before": "no: «comillas» y acentos áéíóú. ",
+          "highlight": "Dos: ñandú, pingüino."
+        },
+        "version": 1
+      }
+    },
+    {
+      "cita": "Cuando llovía, los vecinos",
+      "locator": {
+        "href": "OEBPS/c3.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=64"
+          ],
+          "progression": 0.5818181818181818,
+          "totalProgression": 0.902127659574468
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": " cambiaban de humor.",
+          "before": "vía, el río cambiaba de nombre. ",
+          "highlight": "Cuando llovía, los vecinos"
+        },
+        "version": 1
+      }
+    },
+    {
+      "cita": "no existe en el libro",
+      "error": "DOCUMENT_NOT_FOUND"
+    }
+  ],
+  "fragmentos": [
+    {
+      "locator": {
+        "href": "OEBPS/c1.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=0"
+          ],
+          "progression": 0.0,
+          "totalProgression": 0.0
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": " como un animal cansado.",
+          "highlight": "c1.xhtmlPrimera parte La niebla bajaba del monte"
+        },
+        "title": "Parte 1",
+        "version": 1
+      },
+      "texto": "c1.xhtmlPrimera parte La niebla bajaba del monte como un "
+    },
+    {
+      "locator": {
+        "href": "OEBPS/c1.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=57"
+          ],
+          "progression": 0.2835820895522388,
+          "totalProgression": 0.12127659574468085
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "primer almendro & nadie ",
+          "before": "ajaba del monte como un ",
+          "highlight": "animal cansado. Nadie recordaba quién plantó el "
+        },
+        "title": "Parte 1",
+        "version": 1
+      },
+      "texto": "animal cansado. Nadie recordaba quién plantó el primer "
+    },
+    {
+      "locator": {
+        "href": "OEBPS/c1.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=112"
+          ],
+          "progression": 0.5572139303482587,
+          "totalProgression": 0.23829787234042554
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "s cuatro desde que se fu",
+          "before": " quién plantó el primer ",
+          "highlight": "almendro & nadie preguntaba. El reloj marcaba la"
+        },
+        "title": "Parte 1",
+        "version": 1
+      },
+      "texto": "almendro & nadie preguntaba. El reloj marcaba las cuatro "
+    },
+    {
+      "locator": {
+        "href": "OEBPS/c1.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=169"
+          ],
+          "progression": 0.8407960199004975,
+          "totalProgression": 0.3595744680851064
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "before": "eloj marcaba las cuatro ",
+          "highlight": "desde que se fue el último tren."
+        },
+        "title": "Parte 1",
+        "version": 1
+      },
+      "texto": "desde que se fue el último tren."
+    },
+    {
+      "locator": {
+        "href": "OEBPS/c2.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=0"
+          ],
+          "progression": 0.0,
+          "totalProgression": 0.4276595744680851
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "áéíóú. Dos: ñandú, pingü",
+          "highlight": "c2.xhtmlSegunda parte Uno: «comillas» y acentos "
+        },
+        "title": "Parte 2",
+        "version": 1
+      },
+      "texto": "c2.xhtmlSegunda parte Uno: «comillas» y acentos áéíóú. "
+    },
+    {
+      "locator": {
+        "href": "OEBPS/c2.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=55"
+          ],
+          "progression": 0.34591194968553457,
+          "totalProgression": 0.5446808510638298
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "a. Escribir un mapa de l",
+          "before": "illas» y acentos áéíóú. ",
+          "highlight": "Dos: ñandú, pingüino. Una cita dentro de una cit"
+        },
+        "title": "Parte 2",
+        "version": 1
+      },
+      "texto": "Dos: ñandú, pingüino. Una cita dentro de una cita. "
+    },
+    {
+      "locator": {
+        "href": "OEBPS/c2.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=106"
+          ],
+          "progression": 0.6666666666666666,
+          "totalProgression": 0.6531914893617021
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "ncia.",
+          "before": "ita dentro de una cita. ",
+          "highlight": "Escribir un mapa de lo que no existe exige pacie"
+        },
+        "title": "Parte 2",
+        "version": 1
+      },
+      "texto": "Escribir un mapa de lo que no existe exige paciencia."
+    },
+    {
+      "locator": {
+        "href": "OEBPS/c3.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=0"
+          ],
+          "progression": 0.0,
+          "totalProgression": 0.7659574468085106
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "iaba de nombre. Cuando l",
+          "highlight": "c3.xhtmlTercera parte Cuando llovía, el río camb"
+        },
+        "title": "Parte 3",
+        "version": 1
+      },
+      "texto": "c3.xhtmlTercera parte Cuando llovía, el río cambiaba de "
+    },
+    {
+      "locator": {
+        "href": "OEBPS/c3.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=56"
+          ],
+          "progression": 0.509090909090909,
+          "totalProgression": 0.8851063829787233
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "humor.",
+          "before": "vía, el río cambiaba de ",
+          "highlight": "nombre. Cuando llovía, los vecinos cambiaban de "
+        },
+        "title": "Parte 3",
+        "version": 1
+      },
+      "texto": "nombre. Cuando llovía, los vecinos cambiaban de humor."
+    }
+  ],
+  "indice": {
+    "entries": [
+      {
+        "children": [],
+        "locator": {
+          "href": "OEBPS/c1.xhtml",
+          "locations": {
+            "fragments": [
+              "#char=0"
+            ],
+            "progression": 0.0,
+            "totalProgression": 0.0
+          },
+          "mediaType": "application/xhtml+xml",
+          "text": {
+            "after": " como un animal cansado.",
+            "highlight": "c1.xhtmlPrimera parte La niebla bajaba del monte"
+          },
+          "version": 1
+        },
+        "title": "Parte 1"
+      },
+      {
+        "children": [],
+        "locator": {
+          "href": "OEBPS/c2.xhtml",
+          "locations": {
+            "fragments": [
+              "#char=0"
+            ],
+            "progression": 0.0,
+            "totalProgression": 0.4276595744680851
+          },
+          "mediaType": "application/xhtml+xml",
+          "text": {
+            "after": "áéíóú. Dos: ñandú, pingü",
+            "highlight": "c2.xhtmlSegunda parte Uno: «comillas» y acentos "
+          },
+          "version": 1
+        },
+        "title": "Parte 2"
+      },
+      {
+        "children": [],
+        "locator": {
+          "href": "OEBPS/c3.xhtml",
+          "locations": {
+            "fragments": [
+              "#char=0"
+            ],
+            "progression": 0.0,
+            "totalProgression": 0.7659574468085106
+          },
+          "mediaType": "application/xhtml+xml",
+          "text": {
+            "after": "iaba de nombre. Cuando l",
+            "highlight": "c3.xhtmlTercera parte Cuando llovía, el río camb"
+          },
+          "version": 1
+        },
+        "title": "Parte 3"
+      }
+    ]
+  },
+  "lomo": [
+    "OEBPS/c1.xhtml",
+    "OEBPS/c2.xhtml",
+    "OEBPS/c3.xhtml"
+  ],
+  "marcado": {
+    "OEBPS/c1.xhtml": "84377d03d946a4ec9f8865a67ea8f0f430254979dbddc4e4f7b84a355ee3c6e6",
+    "OEBPS/c2.xhtml": "cc1b919d269a2781f9c307698bb353600882f3edc7798d83cb59edd73891b1c3",
+    "OEBPS/c3.xhtml": "145a06e560366cff4fa7d8115bdac2b496f27fde06f749ff05e805b93b6b24b5"
+  },
+  "posiciones": [
+    {
+      "href": "OEBPS/c1.xhtml",
+      "locator": {
+        "href": "OEBPS/c1.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=0"
+          ],
+          "progression": 0.0,
+          "totalProgression": 0.0
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": " como un animal cansado.",
+          "highlight": "c1.xhtmlPrimera parte La niebla bajaba del monte"
+        },
+        "title": "Parte 1",
+        "version": 1
+      },
+      "offset": 0,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c1.xhtml",
+            "offset": 0
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c1.xhtml",
+      "locator": {
+        "href": "OEBPS/c1.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=10"
+          ],
+          "progression": 0.04975124378109453,
+          "totalProgression": 0.02127659574468085
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "nimal cansado. Nadie rec",
+          "before": "c1.xhtmlPr",
+          "highlight": "imera parte La niebla bajaba del monte como un a"
+        },
+        "title": "Parte 1",
+        "version": 1
+      },
+      "offset": 10,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c1.xhtml",
+            "offset": 10
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c1.xhtml",
+      "locator": {
+        "href": "OEBPS/c1.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=40"
+          ],
+          "progression": 0.19900497512437812,
+          "totalProgression": 0.0851063829787234
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": " quién plantó el primer ",
+          "before": "parte La niebla bajaba d",
+          "highlight": "el monte como un animal cansado. Nadie recordaba"
+        },
+        "title": "Parte 1",
+        "version": 1
+      },
+      "offset": 40,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c1.xhtml",
+            "offset": 40
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c1.xhtml",
+      "locator": {
+        "href": "OEBPS/c1.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=75"
+          ],
+          "progression": 0.373134328358209,
+          "totalProgression": 0.1595744680851064
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "nadie preguntaba. El rel",
+          "before": "mo un animal cansado. Na",
+          "highlight": "die recordaba quién plantó el primer almendro & "
+        },
+        "title": "Parte 1",
+        "version": 1
+      },
+      "offset": 75,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c1.xhtml",
+            "offset": 75
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c2.xhtml",
+      "locator": {
+        "href": "OEBPS/c2.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=0"
+          ],
+          "progression": 0.0,
+          "totalProgression": 0.4276595744680851
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "áéíóú. Dos: ñandú, pingü",
+          "highlight": "c2.xhtmlSegunda parte Uno: «comillas» y acentos "
+        },
+        "title": "Parte 2",
+        "version": 1
+      },
+      "offset": 0,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c2.xhtml",
+            "offset": 0
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c2.xhtml",
+      "locator": {
+        "href": "OEBPS/c2.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=10"
+          ],
+          "progression": 0.06289308176100629,
+          "totalProgression": 0.44893617021276594
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": ": ñandú, pingüino. Una c",
+          "before": "c2.xhtmlSe",
+          "highlight": "gunda parte Uno: «comillas» y acentos áéíóú. Dos"
+        },
+        "title": "Parte 2",
+        "version": 1
+      },
+      "offset": 10,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c2.xhtml",
+            "offset": 10
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c2.xhtml",
+      "locator": {
+        "href": "OEBPS/c2.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=40"
+          ],
+          "progression": 0.25157232704402516,
+          "totalProgression": 0.5127659574468085
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "ntro de una cita. Escrib",
+          "before": "parte Uno: «comillas» y ",
+          "highlight": "acentos áéíóú. Dos: ñandú, pingüino. Una cita de"
+        },
+        "title": "Parte 2",
+        "version": 1
+      },
+      "offset": 40,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c2.xhtml",
+            "offset": 40
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c2.xhtml",
+      "locator": {
+        "href": "OEBPS/c2.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=75"
+          ],
+          "progression": 0.4716981132075472,
+          "totalProgression": 0.5872340425531914
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "de lo que no existe exig",
+          "before": "óú. Dos: ñandú, pingüino",
+          "highlight": ". Una cita dentro de una cita. Escribir un mapa "
+        },
+        "title": "Parte 2",
+        "version": 1
+      },
+      "offset": 75,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c2.xhtml",
+            "offset": 75
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c3.xhtml",
+      "locator": {
+        "href": "OEBPS/c3.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=0"
+          ],
+          "progression": 0.0,
+          "totalProgression": 0.7659574468085106
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "iaba de nombre. Cuando l",
+          "highlight": "c3.xhtmlTercera parte Cuando llovía, el río camb"
+        },
+        "title": "Parte 3",
+        "version": 1
+      },
+      "offset": 0,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c3.xhtml",
+            "offset": 0
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c3.xhtml",
+      "locator": {
+        "href": "OEBPS/c3.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=10"
+          ],
+          "progression": 0.09090909090909091,
+          "totalProgression": 0.7872340425531915
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "mbre. Cuando llovía, los",
+          "before": "c3.xhtmlTe",
+          "highlight": "rcera parte Cuando llovía, el río cambiaba de no"
+        },
+        "title": "Parte 3",
+        "version": 1
+      },
+      "offset": 10,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c3.xhtml",
+            "offset": 10
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c3.xhtml",
+      "locator": {
+        "href": "OEBPS/c3.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=40"
+          ],
+          "progression": 0.36363636363636365,
+          "totalProgression": 0.851063829787234
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "after": "os cambiaban de humor.",
+          "before": "parte Cuando llovía, el ",
+          "highlight": "río cambiaba de nombre. Cuando llovía, los vecin"
+        },
+        "title": "Parte 3",
+        "version": 1
+      },
+      "offset": 40,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c3.xhtml",
+            "offset": 40
+          }
+        },
+        "precision": "exact"
+      }
+    },
+    {
+      "href": "OEBPS/c3.xhtml",
+      "locator": {
+        "href": "OEBPS/c3.xhtml",
+        "locations": {
+          "fragments": [
+            "#char=75"
+          ],
+          "progression": 0.6818181818181818,
+          "totalProgression": 0.925531914893617
+        },
+        "mediaType": "application/xhtml+xml",
+        "text": {
+          "before": "a de nombre. Cuando llov",
+          "highlight": "ía, los vecinos cambiaban de humor."
+        },
+        "title": "Parte 3",
+        "version": 1
+      },
+      "offset": 75,
+      "resolucion": {
+        "position": {
+          "kind": "fragment",
+          "value": {
+            "href": "OEBPS/c3.xhtml",
+            "offset": 75
+          }
+        },
+        "precision": "exact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+targets:
+  $default:
+    builders:
+      drift_dev:
+        options:
+          # Columnas en snake_case en SQLite y camelCase en Dart.
+          case_from_dart_to_sql: snake_case
+          store_date_time_values_as_text: true

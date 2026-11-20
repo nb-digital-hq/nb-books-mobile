@@ -1,0 +1,34 @@
+{
+  "cambios": [
+    {
+      "borrado": false,
+      "clave": "<id>",
+      "datos": {
+        "archivo": {
+          "bytes": 0,
+          "disponible": true,
+          "huella": "sha256:83dcb859491412f3f2b181be6812b437d6dac5ad79c52e9a3ce86fd4d871adf2",
+          "tipo": "application/epub+zip"
+        },
+        "autores": [],
+        "editorial": null,
+        "fecha": null,
+        "id": "<id>",
+        "idioma": null,
+        "indice_serie": null,
+        "materias": [],
+        "orden_autor": null,
+        "portada": false,
+        "serie": null,
+        "sinopsis": null,
+        "subtitulo": null,
+        "titulo": "libro"
+      },
+      "entidad": "edicion",
+      "version": 0
+    }
+  ],
+  "hay_mas": false,
+  "siguiente": 0,
+  "version_actual": 0
+}

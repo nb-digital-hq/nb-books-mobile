@@ -1,0 +1,21 @@
+NB Books Mobile
+Copyright 2026 The NB Books Mobile Authors
+
+This product includes software developed by The NB Books Mobile Authors and by
+third parties. The complete list of third-party components, their copyright
+holders and their licenses is in THIRD-PARTY-NOTICES.md, generated from
+pubspec.lock and distributed with every release; see
+docs/legal/third-party-notices.md.
+
+The bundled fonts Manrope and Space Grotesk are licensed under the SIL Open
+Font License 1.1. The QR scanner includes zxing-cpp, licensed under the Apache
+License 2.0. The reading engine is the NB Books reading engine, licensed under
+the Apache License 2.0, and renders PDF with PDFium, licensed under the BSD
+3-Clause and Apache 2.0 licenses.
+
+Licensed under the Apache License, Version 2.0. You may obtain a copy of the
+License in the LICENSE file distributed with this work.
+
+"NB", "NB Digital", "NB Books" and "NB Books Mobile" are trademarks of the
+project. The Apache License does not grant permission to use the project's
+names, logos or trademarks. See TRADEMARKS.md for the trademark policy.

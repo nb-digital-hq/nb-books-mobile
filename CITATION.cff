@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "NB Books Mobile"
+abstract: >-
+  Mobile companion of NB Books: read, annotate and study the books you choose from your PC library over the local
+  network, with the same reading engine as the desktop, and control the PC reader from the phone. No account, no
+  cloud and no telemetry.
+type: software
+authors:
+  - name: "NB Digital"
+  - name: "The NB Books Mobile Authors"
+version: "1.0.0"
+license: Apache-2.0
+repository-code: "https://github.com/nb-digital-hq/nb-books-mobile"
+keywords:
+  - ebook reader
+  - epub
+  - local-first
+  - offline
+  - privacy
+  - flutter
+  - rust
+  - android
+date-released: 2026-11-20

@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+// El motor de lectura se enlaza estático: en iOS no se cargan bibliotecas
+// dinámicas propias, y el puente lo busca en el propio proceso. La biblioteca
+// la compila la CI antes de `flutter build ios` (docs/developer/packaging.md).
+OTHER_LDFLAGS = $(inherited) -force_load $(PROJECT_DIR)/../native/target/aarch64-apple-ios/release/libnb_books_motor.a

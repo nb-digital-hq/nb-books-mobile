@@ -1,0 +1,81 @@
+name: nb_books_mobile
+description: "Lector de NB Books para el teléfono (Android, iOS y tabletas)."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+  flutter: ">=3.29.0"
+
+# Cada dependencia está justificada (coste, licencia y mantenimiento) en
+# docs/architecture/dependency-policy.md.
+dependencies:
+  flutter:
+    sdk: flutter
+  # Textos propios de los widgets de Material (diálogos, accesibilidad) en el
+  # idioma de la app. Viene con el SDK de Flutter.
+  flutter_localizations:
+    sdk: flutter
+
+  # --- Estado y navegación ---
+  flutter_riverpod: ^3.5.0
+  go_router: ^18.1.4
+
+  # --- Base de datos local ---
+  drift: ^2.35.4
+  drift_flutter: ^0.3.1
+  sqlite3: ^3.9.1
+  path_provider: ^2.1.6
+  path: ^1.9.1
+
+  # --- Motor de lectura de NB Books (Rust) ---
+  flutter_rust_bridge: 2.13.0
+
+  # --- Lector: el capítulo saneado se pinta en una vista web sin red ---
+  webview_flutter: ^4.14.1
+  # Su implementación de Android, directa: la selección de texto para anotar
+  # solo funciona con la composición híbrida, que se elige desde aquí.
+  webview_flutter_android: ^4.14.1
+
+  # --- Red: solo hacia el PC emparejado ---
+  dio: ^5.11.1
+  web_socket_channel: ^3.0.3
+  nsd: ^5.0.1
+
+  # --- Emparejamiento y secretos ---
+  flutter_zxing: ^3.1.1
+  flutter_secure_storage: ^11.2.0
+
+  # --- Voz del sistema ---
+  flutter_tts: ^4.2.5
+
+  # --- Libros del teléfono ---
+  file_picker: ^13.4.0
+
+  # --- Utilidades ---
+  collection: ^1.19.1
+  crypto: ^3.0.8
+  device_info_plus: ^13.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.17.1
+  drift_dev: ^2.35.3
+
+flutter:
+  uses-material-design: true
+
+  # El logo de Acerca de, trazado desde docs/assets/branding/NB_Books.svg.
+  assets:
+    - assets/images/logo.png
+
+  # Fuentes variables (eje wght), las mismas de NB Sound Mobile.
+  fonts:
+    - family: SpaceGrotesk
+      fonts:
+        - asset: assets/fonts/SpaceGrotesk.ttf
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/Manrope.ttf

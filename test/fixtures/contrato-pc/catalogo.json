@@ -1,0 +1,11 @@
+{
+  "fichas": [
+    {
+      "autores": [],
+      "id": "<id>",
+      "portada": false,
+      "seleccionada": true,
+      "titulo": "libro"
+    }
+  ]
+}

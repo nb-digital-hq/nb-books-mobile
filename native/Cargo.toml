@@ -1,0 +1,38 @@
+[package]
+name = "nb_books_motor"
+version = "1.0.0"
+description = "Puente entre NB Books Mobile y el motor de lectura de NB Books"
+authors = ["The NB Books Mobile Authors"]
+license = "Apache-2.0"
+repository = "https://github.com/nb-digital-hq/nb-books-mobile"
+edition = "2021"
+rust-version = "1.98"
+publish = false
+
+[lib]
+crate-type = ["cdylib", "staticlib", "rlib"]
+
+[dependencies]
+# Fijada a la versión exacta del paquete de Dart: el código generado de los dos
+# lados tiene que ser de la misma versión, o el puente no arranca.
+flutter_rust_bridge = "=2.13.0"
+# El motor de NB Books, sin copiarlo a mano: es la exportación sellada que
+# comprueba `tool/guardianes/motor.dart` (ADR-008).
+nb-books-lector = { path = "vendor/nb-books-lector" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[dev-dependencies]
+# Solo para el corpus de conformidad, que huellea el marcado igual que en
+# NB Books.
+sha2 = "0.10.9"
+
+[profile.release]
+opt-level = "s"
+lto = true
+codegen-units = 1
+strip = true
+panic = "unwind"
+
+[lints.rust]
+unexpected_cfgs = { level = "warn", check-cfg = ['cfg(frb_expand)'] }

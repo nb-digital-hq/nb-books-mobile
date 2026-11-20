@@ -1,0 +1,5 @@
+rust_input: crate::api
+rust_root: native/
+dart_output: lib/core/motor/puente/
+c_output: native/target/cabecera_frb.h
+dart_entrypoint_class_name: MotorNativo

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Ningún tráfico en claro: al PC se habla por HTTPS y WSS con la huella de su
+  certificado fijada al emparejar, y a GitHub por HTTPS. El lector no carga nada
+  de la red; el capítulo llega ya saneado del motor.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false"/>
+</network-security-config>
